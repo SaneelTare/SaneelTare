@@ -11,7 +11,7 @@
 
 - 👨‍💻 Most of my projects are available on GitHub and Portfolio: [https://saneeltare.github.io/Portfolio.github.io/](https://saneeltare.github.io/Portfolio.github.io/)
 
-- 💬 Ask me about **Advanced Excel, Story Telling, Data Visualization**
+- 💬 Ask me about **Advanced Excel, Python, SQL, Data Analytics, Alteryx, Exploratory Data Analysis, Story Telling, Data Visualization(Tableau, Power BI, QuickSight)**
 
 - 📫 How to reach me **saneel.tare526@gmail.com**
 
@@ -28,3 +28,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saneeltare&show_icons=true&locale=en" alt="saneeltare" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saneeltare&" alt="saneeltare" /></p>
+
+<h3 align="left">Technical Skills</h3>
+<p align="left">
+Programming Languages: Python, SQL, Java, C, HTML, CSS, R, SAP ABAP <br>
+Machine Learning: Regression, Clustering, Deep Learning <br>
+Data Visualization: Tableau, PowerBI, QuickSight, Matplotlib, Seaborn <br>
+ETL: Alteryx, Talend, Azure <br>
+QA Testing: Selenium, UFT <br>
+Packages: Pandas, NumPy, Matplotlib, SciPy, Scikit-Learn <br>
+Cloud: AWS, GCP <br>
+IDEs: Anaconda, Jupyter Notebook, Visual Studio <br>
+</p>
